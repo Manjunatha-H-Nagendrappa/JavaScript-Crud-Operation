@@ -1,6 +1,6 @@
 # JavaScript-Crud-Operation
 
-Different types of form fields validation with crud operation.
+Different types of form field validation with crud operation.
 
 Programming languages used HTML, CSS and JavaScript.
 
